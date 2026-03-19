@@ -4,14 +4,11 @@
 
 <div align="center">
   
-### 🎯 Welcome to my Digital Universe
+### 🚀 Innovating at the Intersection of Technology & Creativity
   
-```
-╔════════════════════════════════════════════════════╗
-║  Building intelligent solutions that change the   ║
-║  world, one line of code at a time                ║
-╚════════════════════════════════════════════════════╝
-```
+<p style="font-size: 18px; letter-spacing: 2px;">
+<strong>Transforming Visionary Ideas into Scalable Digital Excellence</strong>
+</p>
 
 </div>
 
@@ -154,44 +151,44 @@ Be a key player in the digital revolution, creating products used by millions wo
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </div>
 
-<h2 align="center">⚡ Core Competencies</h2>
+<h2 align="center">💎 Professional Expertise</h2>
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #00d4ff22 0%, #0066ff22 100%); border: 2px solid #00d4ff44;">
 
 ### 🖥️ Full Stack
-<p>
-<strong>End-to-End Solutions</strong>
-</p>
-<sub>React • Next.js • Node.js • Databases • Cloud</sub>
+<p style="color: #00d4ff; font-weight: bold;">End-to-End Excellence</p>
+<sub>React • Next.js • Node.js<br/>Databases • Cloud • REST APIs</sub>
+
+**Mastery Level: 95%**
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #0066ff22 0%, #7c3aed22 100%); border: 2px solid #0066ff44;">
 
 ### 🤖 AI & ML
-<p>
-<strong>Intelligent Systems</strong>
-</p>
-<sub>TensorFlow • PyTorch • NLP • Deep Learning</sub>
+<p style="color: #0066ff; font-weight: bold;">Intelligent Innovation</p>
+<sub>TensorFlow • PyTorch • NLP<br/>Deep Learning • LLMs • Automation</sub>
+
+**Mastery Level: 85%**
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #ff006e22 0%, #ffb90022 100%); border: 2px solid #ff006e44;">
 
-### 🛡️ Backend
-<p>
-<strong>Scalable Architecture</strong>
-</p>
-<sub>APIs • Microservices • Databases • Security</sub>
+### ⚡ Backend & Architecture
+<p style="color: #ff006e; font-weight: bold;">Scalable Systems</p>
+<sub>APIs • Microservices • Security<br/>Database Design • Performance Optimization</sub>
+
+**Mastery Level: 92%**
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #7c3aed22 0%, #00d4ff22 100%); border: 2px solid #7c3aed44;">
 
-### 🎨 Frontend
-<p>
-<strong>Beautiful UX/UI</strong>
-</p>
-<sub>React • TypeScript • Tailwind • Animation</sub>
+### 🎨 Frontend & UX
+<p style="color: #7c3aed; font-weight: bold;">Beautiful Experiences</p>
+<sub>React • TypeScript • Tailwind<br/>Animations • Responsive Design • UX</sub>
+
+**Mastery Level: 90%**
 
 </td>
 </tr>
@@ -200,47 +197,60 @@ Be a key player in the digital revolution, creating products used by millions wo
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK VISUAL -->
+<!-- TECHNOLOGY TOOLKIT -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </div>
 
-<h2 align="center">🛠️ Technology Arsenal</h2>
+<h2 align="center">🛠️ Technology Toolkit</h2>
 
-<h4 align="center">💫 Frontend & UI</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,sass,vue&theme=dark" />
-</p>
+<table>
+<tr>
+<td width="20%" align="center" style="padding: 15px;">
 
-<h4 align="center">⚙️ Backend & Servers</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,laravel&theme=dark" />
-</p>
+**Frontend Stack**
 
-<h4 align="center">🗄️ Databases & Storage</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,supabase&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" />
+<br/><sub>React • Next.js<br/>TypeScript • Tailwind</sub>
 
-<h4 align="center">🧠 AI/ML & Data Science</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1f2e" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1f2e" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1f2e" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NLP-00d4ff?style=for-the-badge&logoColor=white&labelColor=1a1f2e" />
-</p>
+</td>
+<td width="20%" align="center" style="padding: 15px;">
 
-<h4 align="center">🚀 DevOps & Infrastructure</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,aws&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CI%2FCD-0066ff?style=for-the-badge&logoColor=white&labelColor=1a1f2e" />
-</p>
+**Backend Stack**
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi&theme=dark" />
+<br/><sub>Node.js • Python<br/>Express • FastAPI</sub>
+
+</td>
+<td width="20%" align="center" style="padding: 15px;">
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
+<br/><sub>MongoDB • PostgreSQL<br/>MySQL • Redis</sub>
+
+</td>
+<td width="20%" align="center" style="padding: 15px;">
+
+**ML/AI**
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1a1f2e" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=1a1f2e" />
+<br/><sub>TensorFlow • PyTorch<br/>NLP • Deep Learning</sub>
+
+</td>
+<td width="20%" align="center" style="padding: 15px;">
+
+**DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux,aws&theme=dark" />
+<br/><sub>Docker • Git<br/>Linux • AWS</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -379,71 +389,6 @@ Be a key player in the digital revolution, creating products used by millions wo
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OubenazhaRachid&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,S,A" />
 </p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SKILLS MATRIX -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
-
-<h2 align="center">📈 Skill Matrix</h2>
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-**Backend Development**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
-<img src="https://img.shields.io/badge/Express-000?style=flat&logo=express" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi" />
-
-**Proficiency: 95%**
-
-</td>
-<td width="25%" align="center">
-
-**Frontend Development**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" />
-<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css" />
-
-**Proficiency: 90%**
-
-</td>
-<td width="25%" align="center">
-
-**AI & Machine Learning**
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch" />
-<img src="https://img.shields.io/badge/NLP-7c3aed?style=flat" />
-<img src="https://img.shields.io/badge/Deep Learning-FF6F00?style=flat" />
-
-**Proficiency: 85%**
-
-</td>
-<td width="25%" align="center">
-
-**DevOps & Cloud**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws" />
-
-**Proficiency: 88%**
-
-</td>
-</tr>
-</table>
 
 ---
 
