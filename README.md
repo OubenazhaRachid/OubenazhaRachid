@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,20:00d4ff,40:0066ff,60:7c3aed,80:ff006e,100:ffb900&height=300&section=header&text=OubenazhaRachid&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Tech%20Innovator&descAlignY=60&descSize=20&descColor=00d4ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,100:00d4ff&height=300&section=header&text=OubenazhaRachid&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Tech%20Innovator&descAlignY=60&descSize=20&descColor=00d4ff" width="100%" />
 
 ---
 
@@ -16,15 +16,15 @@
 
 <p align="center">
   <a href="https://github.com/OubenazhaRachid"><img src="https://img.shields.io/badge/💻_GitHub-OubenazhaRachid-00d4ff?style=for-the-badge&labelColor=1a1f2e&logo=github&logoColor=white&logoWidth=20" /></a>&nbsp;
-  <a href="https://linkedin.com/in/oubenazharachid"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0066ff?style=for-the-badge&labelColor=1a1f2e&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:oubenazharachid@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-Say%20Hi!-ff006e?style=for-the-badge&labelColor=1a1f2e&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/⭐_Website-Coming%20Soon-ffb900?style=for-the-badge&labelColor=1a1f2e&logo=safari&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/oubenazharachid"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-00d4ff?style=for-the-badge&labelColor=1a1f2e&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:oubenazharachid@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-Say%20Hi!-00d4ff?style=for-the-badge&labelColor=1a1f2e&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/⭐_Website-Coming%20Soon-00d4ff?style=for-the-badge&labelColor=1a1f2e&logo=safari&logoColor=white" /></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=500&color=00d4ff&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%9C%A8+Crafting+Intelligent+Digital+Solutions;🚀+Pushing+the+Boundaries+of+Technology;💡+Transforming+Ideas+into+Reality;🎯+Building+the+Future%2C+Today" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=800&color=00d4ff&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9C%A8+Crafting+Intelligent+Digital+Solutions;🚀+Pushing+the+Boundaries+of+Technology;💡+Turning+Ideas+into+Scalable+Products" />
 </p>
 
 ---
@@ -471,9 +471,9 @@ Be a key player in the digital revolution, creating products used by millions wo
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Actively%20Exploring-00d4ff?style=for-the-badge&labelColor=1a1f2e" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Availability-Limited%20Slots-0066ff?style=for-the-badge&labelColor=1a1f2e" />
+  <img src="https://img.shields.io/badge/Availability-Limited%20Slots-00d4ff?style=for-the-badge&labelColor=1a1f2e" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Timezone-GMT%20%2B0-ff006e?style=for-the-badge&labelColor=1a1f2e" />
+  <img src="https://img.shields.io/badge/Timezone-GMT%20%2B0-00d4ff?style=for-the-badge&labelColor=1a1f2e" />
 </p>
 
 ---
@@ -488,6 +488,10 @@ Be a key player in the digital revolution, creating products used by millions wo
 
 <h2 align="center">📬 Get In Touch</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=🚀+Engineering+the+Future+with+Code;🤖+AI+|+Web+|+Security;⚡+Building+Powerful+Digital+Experiences" />
+</p>
+
 <div align="center">
 
 ### 🌐 Connect With Me
@@ -495,9 +499,9 @@ Be a key player in the digital revolution, creating products used by millions wo
 <p>
   <a href="https://github.com/OubenazhaRachid"><img src="https://img.shields.io/badge/GitHub-OubenazhaRachid-00d4ff?style=for-the-badge&labelColor=1a1f2e&logo=github&logoColor=white&logoWidth=20" /></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/oubenazharachid"><img src="https://img.shields.io/badge/LinkedIn-Oubenazha%20Rachid-0066ff?style=for-the-badge&labelColor=1a1f2e&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/oubenazharachid"><img src="https://img.shields.io/badge/LinkedIn-Oubenazha%20Rachid-00d4ff?style=for-the-badge&labelColor=1a1f2e&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:oubenazharachid@gmail.com"><img src="https://img.shields.io/badge/Email-oubenazharachid@gmail.com-ff006e?style=for-the-badge&labelColor=1a1f2e&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:oubenazharachid@gmail.com"><img src="https://img.shields.io/badge/Email-oubenazharachid@gmail.com-00d4ff?style=for-the-badge&labelColor=1a1f2e&logo=gmail&logoColor=white" /></a>
 </p>
 
 ### 💬 Quick Links
